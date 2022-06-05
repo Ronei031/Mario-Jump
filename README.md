@@ -1,4 +1,5 @@
 # Mario-Jump
 Meu primeiro game desenvolvido em JavaScript, HTML e CSS. <br>
-<img src="https://user-images.githubusercontent.com/104802303/172064063-95d45c5a-2a59-4833-ab02-804e9f8c70b7.png" >
+<br>
+<img src="https://i.pinimg.com/originals/39/63/56/39635620bc39fd89280af66645b69d80.gif" >
 
